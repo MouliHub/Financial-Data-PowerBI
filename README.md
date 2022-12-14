@@ -1,6 +1,6 @@
 # Financial-Data-PowerBI
 
-In this project I have done Budget vs Actual data comparaision analysis in PowerBI
+In this project I have done Budget vs Actual data comparison analysis in PowerBI
 
 Below are the analysis themes which I have addressed with the given dataset
 
